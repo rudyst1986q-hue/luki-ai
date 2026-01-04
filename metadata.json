@@ -1,0 +1,7 @@
+{
+  "name": "Copy of AI Playmate - Image Games",
+  "description": "An interactive AI companion that recognizes your images and plays games like 'I Spy', story-telling, and item quests based on what it sees.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
